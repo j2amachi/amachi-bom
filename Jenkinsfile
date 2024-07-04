@@ -1,4 +1,4 @@
-// @Library('phub-jenkins-shared-library')
+// @Library('film-jenkins-shared-library')
 
 filmPipeline {
     agent {
